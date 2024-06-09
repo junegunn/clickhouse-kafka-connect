@@ -13,3 +13,7 @@ For a full overview of the design and how exactly-once delivery semantics are ac
 
 ## Help
 For additional help, please [file an issue in the repository](https://github.com/ClickHouse/clickhouse-kafka-connect/issues) or raise a question in [ClickHouse public Slack](https://clickhouse.com/slack).
+
+## License
+
+This project is licensed under the MIT License.
